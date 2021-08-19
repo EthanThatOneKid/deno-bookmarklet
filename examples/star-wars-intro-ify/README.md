@@ -10,7 +10,7 @@ Simply verify that you machine has
 following command.
 
 ```sh
-deno run --unstable --allow-read https://raw.githubusercontent.com/EthanThatOneKid/deno-bookmarklet/main/mod.ts https://raw.githubusercontent.com/EthanThatOneKid/deno-bookmarklet/main/examples/star-wars-intro-ify/mod.ts
+deno run --unstable --allow-read https://github.com/EthanThatOneKid/deno-bookmarklet/raw/main/mod.ts https://github.com/EthanThatOneKid/deno-bookmarklet/raw/main/examples/star-wars-intro-ify/mod.ts
 ```
 
 ### Setting the Scroll Speed
